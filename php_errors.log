@@ -1,0 +1,52 @@
+[15-Oct-2018 21:01:10 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:01:10 UTC] PHP Stack trace:
+[15-Oct-2018 21:01:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:01:10 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:01:39 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:01:39 UTC] PHP Stack trace:
+[15-Oct-2018 21:01:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:01:39 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:01:56 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:01:56 UTC] PHP Stack trace:
+[15-Oct-2018 21:01:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:01:56 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:04:20 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:04:20 UTC] PHP Stack trace:
+[15-Oct-2018 21:04:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:04:20 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:04:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:04:21 UTC] PHP Stack trace:
+[15-Oct-2018 21:04:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:04:21 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:05:23 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:05:23 UTC] PHP Stack trace:
+[15-Oct-2018 21:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:05:23 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:05:24 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:05:24 UTC] PHP Stack trace:
+[15-Oct-2018 21:05:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:05:24 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:06:31 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:06:31 UTC] PHP Stack trace:
+[15-Oct-2018 21:06:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:06:31 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:06:32 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:06:32 UTC] PHP Stack trace:
+[15-Oct-2018 21:06:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:06:32 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[15-Oct-2018 21:07:30 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[15-Oct-2018 21:07:30 UTC] PHP Stack trace:
+[15-Oct-2018 21:07:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[15-Oct-2018 21:07:30 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[16-Oct-2018 20:20:41 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[16-Oct-2018 20:20:41 UTC] PHP Stack trace:
+[16-Oct-2018 20:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Oct-2018 20:20:41 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[17-Oct-2018 20:21:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[17-Oct-2018 20:21:28 UTC] PHP Stack trace:
+[17-Oct-2018 20:21:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[17-Oct-2018 20:21:28 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
+[17-Oct-2018 20:46:01 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/ubuntu/workspace/public/index.php on line 8
+[17-Oct-2018 20:46:01 UTC] PHP Stack trace:
+[17-Oct-2018 20:46:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[17-Oct-2018 20:46:01 UTC] PHP   2. array_key_exists() /home/ubuntu/workspace/public/index.php:8
